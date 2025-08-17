@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](https://www.canva.com/design/DAGmH9oZiSk/PJbLU49Xx1XUZnWELdkz4g/view?utm_content=DAGmH9oZiSk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51ad33c2ff)
 
 <h1 align="center">Hi 👋, I'm Ali Amin</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
