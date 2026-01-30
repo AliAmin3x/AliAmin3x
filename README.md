@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 💼 **MERN + Python Developer / Full-Stack Engineer**
-- 🎓 **B.S. in Software Engineering** — University of Central Punjab, Lahore  
+- 🎓 **B.S. in Software Engineering** - University of Central Punjab, Lahore  
 - 🔭 Worked as a **React Developer at CapriVentures**  
 - 🧑‍💻 **Self-Employed Freelancer** building full-stack web apps & admin dashboards  
 - 🌱 Learning **Advanced React, Next.js, Performance Optimization & System Design**
@@ -104,14 +104,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAmin3x&layout=compact"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAmin3x&show_icons=true"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAmin3x"/>
-</p>
