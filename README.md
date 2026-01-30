@@ -84,19 +84,10 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me on LinkedIn
 <p align="left">
-<a href="https://linkedin.com/in/ali-amin-457b00" target="_blank">
+<a href="https://www.linkedin.com/in/ali-amin-457b00256/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-<a href="https://github.com/AliAmin3x" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</a>
-<a href="https://dribbble.com/ali_amin3x" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40"/>
-</a>
-<a href="https://www.behance.net/aliamin25" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40"/>
 </a>
 </p>
 
