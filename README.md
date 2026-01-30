@@ -107,11 +107,11 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliamin3x&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAmin3x&layout=compact"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aliamin3x&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAmin3x&show_icons=true"/>
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliamin3x"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAmin3x"/>
 </p>
