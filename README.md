@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Amin</h1>
 <h3 align="center">MERN + Python Developer | Full-Stack Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aliamin3x&label=Profile%20views&color=0e75b6&style=flat" alt="aliamin3x" /> 
 </p>
@@ -47,7 +45,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
 </p>
 
 ---
